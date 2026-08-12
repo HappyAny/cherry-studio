@@ -11,7 +11,9 @@ export type {
   AgentConfiguration,
   AgentEntity,
   ScheduledTaskEntity,
-  TaskRunLogEntity
+  TaskRunDisplayStatus,
+  TaskRunLogEntity,
+  TaskRunSummary
 } from '../api/schemas/agents'
 export type { AgentSessionMessageEntity } from '../api/schemas/agentSessionMessages'
 export type { InstalledSkill } from '../api/schemas/skills'
