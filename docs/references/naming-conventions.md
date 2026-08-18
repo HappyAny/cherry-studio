@@ -153,7 +153,7 @@ Directory naming splits into category rules (§4.1–§4.3, §4.5–§4.7, §4.1
 
 ```
 packages/ai-sdk-provider/      ✅
-packages/mcp-trace/            ✅
+packages/provider-registry/    ✅
 packages/extension-table-plus/ ✅
 packages/somePkg/              ❌ (camelCase not allowed)
 packages/SomePkg/              ❌ (PascalCase not allowed)
